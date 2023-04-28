@@ -1,0 +1,10 @@
+github.com/bradfair/go-pipelines v1.0.1 h1:JcYUVCUgegt6A7vbbS/tRhK5ALg4+lkErZV0xNMG4BU=
+github.com/bradfair/go-pipelines v1.0.1/go.mod h1:0hRjdeuo01qoxoj0KhElZdPUUWntpJy+axjBTPp6V6A=
+github.com/deliveryhero/pipeline v0.4.0 h1:rQ6qHTApvVFouP9Y02k53KoFX+myuO6/OAxVX34iXvo=
+github.com/deliveryhero/pipeline v0.4.0/go.mod h1:78CQfQT2DONSGPktr7X71xu333ZMPdrcYuV/gY/Mnkg=
+github.com/deliveryhero/pipeline/v2 v2.1.1 h1:voM9cCSUVihQCzbQrF/UsZPUnw3t+j672HBuOR+ePgA=
+github.com/deliveryhero/pipeline/v2 v2.1.1/go.mod h1:QKhT6xfc0r8xq4cPFcRdhXf5fCKA2F3d+h3T/w6IAA8=
+github.com/modfin/henry v0.0.0-20220425073158-37972c80b10d h1:SzKyQGq3V2NhAaMaIIA8mGbq1vF1+YRKlICnouhqnyY=
+github.com/modfin/henry v0.0.0-20220425073158-37972c80b10d/go.mod h1:i8Fu1UVoYV8cHZ3mIjIXqcJBLVyuEE8pek/1UuO8PnU=
+github.com/solsw/chanhelper v0.1.1 h1:R3H1dAAN9BIeVik0jmLgkeDJLClUATQBoRdzBJgVpDA=
+github.com/solsw/chanhelper v0.1.1/go.mod h1:Cz5fIRrOxIrdROIPQ5+vFmDvi1IoNlWDI2AtJUqwNmM=
